@@ -1,0 +1,7 @@
+echo "# itsantamaria-webdeploy-actions-runs-15542343145" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/itsantamaria/itsantamaria-webdeploy-actions-runs-15542343145.git
+git push -u origin main
